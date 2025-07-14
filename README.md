@@ -20,7 +20,7 @@
   <tr><td>ellos/ellas/ustedes</td><td>ían</td></tr>
 </table>
 
-<h3>3. Common Irregular Verbs (Stem Changes)</h3>
+<h2>3. Common Irregular Verbs (Stem Changes)</h2>
 <p>These use the same endings but have irregular stems:</p>
 
 <table>
