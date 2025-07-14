@@ -1,4 +1,4 @@
-<h1>Spanish Grammar – Conditional Tense</h1>
+<h1>Conditional Tense — Spanish Notes</h1>
 
 <h2>1. When to Use the Conditional Tense</h2>
 <ul>
